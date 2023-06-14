@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Al Azad Heera</h1>
 <h3 align="center">A passionate fullstack developer</h3>
+<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilheera&label=Profile%20views&color=0e75b6&style=flat" alt="nilheera" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilheera" alt="nilheera" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nilheera" target="blank"><img src="https://img.shields.io/twitter/follow/nilheera?logo=twitter&style=for-the-badge" alt="nilheera" /></a> </p>
 
