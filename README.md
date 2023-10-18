@@ -16,7 +16,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/alazadheera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alazadheera" height="30" width="40" /></a>
 <a href="https://twitter.com/nilheera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nilheera" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-al-azad-heera-63bba2176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-al-azad-heera-63bba2176" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14711978" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14711978" height="30" width="40" /></a>
@@ -30,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilheera&show_icons=true&locale=en" alt="nilheera" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilheera&" alt="nilheera" /></p>
+<p><img align="center" width="100" src="https://github-readme-streak-stats.herokuapp.com/?user=nilheera&" alt="nilheera" /></p>
