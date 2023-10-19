@@ -2,6 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
+
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
@@ -10,6 +11,7 @@
                 <b><a target="_blank" href="https://alsiam.com">Al Azad Heera</a></b>
         </samp>
 </h3>
+
 
 <p align="center"> 
   <samp>
@@ -109,48 +111,63 @@ Thank you for taking the time to get to know me better. I am eagerly anticipatin
 </p>
 
 - Tools
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,figma,linux,vscode,postman" />
-    </a>
-  </p></samp>
-  <br/>
-  <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/portfolio-Projects-2ea44f?style=for-the-badge" alt="Portfolio - Projects"></a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,figma,linux,vscode,postman" />
+  </a>
+</p></samp>
+<br/>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/portfolio-Projects-2ea44f?style=for-the-badge" alt="Portfolio - Projects"></a>
+</p>
+<p align="left">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhammadalazadheera&repo=portfolio-laravel-pos&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhammadalazadheera&repo=facebook_messenger_ext&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=muhammadalazadheera&repo=wallpulse&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/DenverCoder1/unedit-for-reddit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhammadalazadheera&repo=html-css-js-projects&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
   </p>
-  <p align="left">
-      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhammadalazadheera&repo=portfolio-laravel-pos&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-      <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhammadalazadheera&repo=facebook_messenger_ext&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-      <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=muhammadalazadheera&repo=wallpulse&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-      <a href="https://github.com/DenverCoder1/unedit-for-reddit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhammadalazadheera&repo=html-css-js-projects&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
-    </p>
 
   <a href="https://github.com/muhammadalazadheera?tab=repositories&sort=stargazers" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a><br />
-  <p align="center">
-      <a href="#"><img src="https://img.shields.io/badge/Github-stats-2ea44f?style=for-the-badge" alt="Contact - Info"></a>
-  </p>
+<p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Github-stats-2ea44f?style=for-the-badge" alt="Contact - Info"></a>
+</p>
 
-    <h3>🔥 Streak Stats</h3>
 
-    <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <p>
-      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=muhammadalazadheera&theme=monokai-metallian&hide_border=true"/>
-      </a>
+  <h3>🔥 Streak Stats</h3>
 
-    <h3>💻 GitHub Profile Stats</h3>
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=muhammadalazadheera&theme=monokai-metallian&hide_border=true"/>
+    </a>
 
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=muhammadalazadheera&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=2ea44f&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muhammadalazadheera&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=2ea44f&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
-    <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=muhammadalazadheera&bg_color=1F222E&color=2ea44f&line=2ea44f&point=FFFFFF&hide_border=true" /></a>
-
-    <p align="center">
-      <a href="#"><img src="https://img.shields.io/badge/contact-info-2ea44f?style=for-the-badge" alt="contact - info"></a>
-  </p>
- 
+  <hr />
+  <p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/contact-info-2ea44f?style=for-the-badge" alt="contact - info"></a>
+</p>
+<p align="center">
+ <a href="https://muhammadalazadheera.github.io" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://linkedin.com/in/muhammadalazadheera" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ <a href="https://instagram.com/muhammadalazadheera" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+ <a href="https://facebook.com/muhammadalazadheera" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  </a> 
+</p>
