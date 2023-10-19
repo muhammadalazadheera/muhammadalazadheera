@@ -168,7 +168,7 @@ Thank you for taking the time to get to know me better. I am eagerly anticipatin
  <a href="https://instagram.com/muhammadalazadheera" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
- <a href="https://facebook.com/muhammadalazadheera" target="_blank">
+ <a href="https://facebook.com/muhammadalazadheera" target="blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
