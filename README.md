@@ -116,7 +116,7 @@ Thank you for taking the time to get to know me better. I am eagerly anticipatin
     <img src="https://skillicons.dev/icons?i=git,figma,linux,vscode,postman" />
   </a>
 </p></samp>
-<br/>
+<hr/>
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/portfolio-Projects-2ea44f?style=for-the-badge" alt="Portfolio - Projects"></a>
 </p>
