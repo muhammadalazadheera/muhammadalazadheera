@@ -158,7 +158,7 @@ Thank you for taking the time to get to know me better. I am eagerly anticipatin
     <a href="#"><img src="https://img.shields.io/badge/contact-info-2ea44f?style=for-the-badge" alt="contact - info"></a>
 </p>
 <p align="center">
- <a href="https://muhammadalazadheera.github.io" target="blank">
+ <a target="_blank" href="https://muhammadalazadheera.github.io">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://linkedin.com/in/muhammadalazadheera" target="_blank">
