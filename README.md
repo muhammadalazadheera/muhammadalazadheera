@@ -128,6 +128,7 @@ Thank you for taking the time to get to know me better. I am eagerly anticipatin
   </p>
 
   <a href="https://github.com/muhammadalazadheera?tab=repositories&sort=stargazers" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a><br />
+  <hr>
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Github-stats-2ea44f?style=for-the-badge" alt="Contact - Info"></a>
 </p>
