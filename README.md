@@ -1,7 +1,7 @@
 <a href="https://komarev.com/ghpvc/?username=muhammadalazadheera">
   <img align="right" src="https://komarev.com/ghpvc/?username=muhammadalazadheera&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
-
+[![wakatime](https://wakatime.com/badge/user/018b4611-a564-4d30-8231-dd09a94eb959.svg)](https://wakatime.com/@018b4611-a564-4d30-8231-dd09a94eb959)
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
