@@ -38,7 +38,7 @@
 <!-- About Me -->
 <p align="center"><a href="#"><img src="https://img.shields.io/badge/About-Me-2ea44f?style=for-the-badge" alt="About - Me"></a></p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=samp&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Fullstack+Developer;Laravel;MERN+STACK;MEVN+STACK" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=samp&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Fullstack+Developer;Laravel;MERN+STACK;MEVN+STACK" alt="Typing SVG" /></a>
 </p>
 
 <p align="left">
