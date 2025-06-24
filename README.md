@@ -217,8 +217,7 @@ Github Statistic
 </samp>
 <br />
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muhammadalazadheera&theme=monokai" alt="GitHub Streak" /></a>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muhammadalazadheera&theme=monokai" alt="GitHub Streak" /></a><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muhammadalazadheera&theme=monokai" alt="GitHub Streak" /></a>
 </p>
 <br />
 
