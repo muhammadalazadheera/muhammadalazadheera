@@ -206,7 +206,7 @@ Github Statistic
 <br />
 <p align="center">
   <a href="#">
-    <img width="100%" src="https://img.shields.io/badge/Github-stats-2ea44f?style=for-the-badge" alt="Github - Stats">
+    <img src="https://img.shields.io/badge/Github-stats-2ea44f?style=for-the-badge" alt="Github - Stats">
   </a>
 </p>
 
@@ -218,7 +218,7 @@ Github Statistic
 <br />
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p>
-  <img src="https://streak-stats.demolab.com?user=muhammadalazadheera&theme=monokai" alt="GitHub Streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=muhammadalazadheera&theme=monokai" alt="GitHub Streak" />
 </p>
 <br />
 
