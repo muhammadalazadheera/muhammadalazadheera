@@ -206,7 +206,7 @@ Github Statistic
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Github-stats-2ea44f?style=for-the-badge" alt="Github - Stats">
+    <img width="100%" src="https://img.shields.io/badge/Github-stats-2ea44f?style=for-the-badge" alt="Github - Stats">
   </a>
 </p>
 
