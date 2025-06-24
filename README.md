@@ -229,9 +229,9 @@ Github Statistic
 <br />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="100%" class="img" alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=muhammadalazadheera&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=1F222E&title_color=2ea44f&icon_color=F8D866"/>
-</a>
+<p align="center">
+  <img class="img" alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=muhammadalazadheera&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=1F222E&title_color=2ea44f&icon_color=F8D866"/>
+</p>
 
 <br />
 <br />
@@ -241,9 +241,9 @@ Github Statistic
 
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="100%" class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muhammadalazadheera&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=1F222E&title_color=2ea44f&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"/>
-</a>
+<p align="center">
+  <img class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muhammadalazadheera&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=1F222E&title_color=2ea44f&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"/>
+</p>
 
 <br/>
 <br />
