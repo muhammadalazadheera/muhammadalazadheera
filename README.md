@@ -170,7 +170,7 @@ Github Repoes
 </p>
 <br />
 
-<p align="left">
+<p align="center">
   <a target="_blank" href="https://github.com/muhammadalazadheera/portfolio-laravel-pos">
   <img class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhammadalazadheera&repo=portfolio-laravel-pos&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg">
   </a>
@@ -188,9 +188,11 @@ Github Repoes
   </a>
 </p>
 <br />
+<p align="center">
 <a href="https://github.com/muhammadalazadheera?tab=repositories&sort=stargazers" target="_blank">
   <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
 </a>
+</p>
 
 <br /><hr>
 
@@ -205,40 +207,40 @@ Github Statistic
 </p>
 
 <samp>
-  <h3>🔥 Streak Stats</h3>
+  <h3 align="center">🔥 Streak Stats</h3>
 </samp>
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=muhammadalazadheera&theme=monokai" alt="GitHub Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=muhammadalazadheera&theme=monokai" alt="GitHub Streak" />
 </p>
 <br />
 
 <samp>
-  <h3>💻 GitHub Profile Stats</h3>
+  <h3 align="center">💻 GitHub Profile Stats</h3>
 </samp>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <p align="center">
-  <img width="100%" class="img" alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=muhammadalazadheera&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=1F222E&title_color=2ea44f&icon_color=F8D866"/>
+  <img width="70%" class="img" alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=muhammadalazadheera&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=1F222E&title_color=2ea44f&icon_color=F8D866"/>
 </p>
 
 <br />
 <br />
 <samp>
-  <h3>💻 GitHub Language Stats</h3>
+  <h3 align="center">💻 GitHub Language Stats</h3>
 </samp>
 
 <br />
 
 <p align="center">
-  <img width="100%" class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muhammadalazadheera&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=1F222E&title_color=2ea44f&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"/>
+  <img width="70%" class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muhammadalazadheera&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=1F222E&title_color=2ea44f&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"/>
 </p>
 
 <br/>
 <br />
 
 <samp>
-  <h3>💻 GitHub Activity Stats</h3>
+  <h3 align="center">💻 GitHub Activity Stats</h3>
 </samp>
 
 <br />
