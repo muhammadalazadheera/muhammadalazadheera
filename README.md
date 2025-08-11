@@ -14,14 +14,19 @@ Intro
 
 <h3 align="center">
   <samp>&gt; Hey There!, I am
+  <br>
     <b>
-      <a style="font-size:50px;" href="https://muhammadalazadheera.github.io" target="_blank">Al Azad Heera</a>
+      <a style="font-size:50px; color:#2EA44F;" href="https://muhammadalazadheera.github.io" target="_blank">Al Azad Heera</a>
     </b>
   </samp>
 </h3>
-<br />
 <p align="center">
   <samp> I am a full stack web application developer from <b>Bangladesh</b> </samp>
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img class="img" src="https://readme-typing-svg.demolab.com?font=samp&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Fullstack+Developer;Laravel;MERN+STACK;MEVN+STACK" />
+  </a>
 </p>
 
 <br />
@@ -39,9 +44,6 @@ Intro
  <a href="https://linkedin.com/in/muhammadalazadheera" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="muhammadalazadheera"/>
  </a>
- <a href="https://instagram.com/muhammadalazadheera" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="muhammadalazadheera" />
- </a> 
  <a href="https://www.facebook.com/muhammadalazadheera/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="muhammadalazadheera"  />
   </a> 
@@ -58,23 +60,16 @@ About Me
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img class="img" src="https://readme-typing-svg.demolab.com?font=samp&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Fullstack+Developer;Laravel;MERN+STACK;MEVN+STACK" />
-  </a>
-</p>
+
 
 <p align="left" class="bio_text">
   <samp>
     Hello,I am a dedicated and experienced fullstack developer with a profound passion for coding. Over the years, I have leveled up my skills and expertise, specializing in creating web applications like:<br /><br />
     > Websites<br />
     > Single Page Applications (SPAs)<br />
-    > Business Management Systems<br />
     > Software as a Service (SaaS) platforms<br />
     > Custom Content Management Systems (CMS)<br />
     > Chrome Extensions<br />
-    > Desktop Applications<br />
-    > Mobile Applications<br />
     > E-commerce Websites<br />
     > API Development<br />
     > API Integration<br /><br />
@@ -97,7 +92,6 @@ Language & Tools
     <img src="https://img.shields.io/badge/Language-Tools-2ea44f?style=for-the-badge" alt="Language - Tools">
   </a>
 </p>
-<br />
 
 <samp>
   <h3 align="left">Languages and Tools:</h3>
@@ -210,27 +204,22 @@ Github Statistic
   </a>
 </p>
 
-<br />
-
 <samp>
   <h3>🔥 Streak Stats</h3>
 </samp>
-<br />
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=muhammadalazadheera&theme=monokai" alt="GitHub Streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=muhammadalazadheera&theme=monokai" alt="GitHub Streak" />
 </p>
 <br />
 
 <samp>
   <h3>💻 GitHub Profile Stats</h3>
 </samp>
-
-<br />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <p align="center">
-  <img class="img" alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=muhammadalazadheera&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=1F222E&title_color=2ea44f&icon_color=F8D866"/>
+  <img width="100%" class="img" alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=muhammadalazadheera&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=1F222E&title_color=2ea44f&icon_color=F8D866"/>
 </p>
 
 <br />
@@ -242,7 +231,7 @@ Github Statistic
 <br />
 
 <p align="center">
-  <img class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muhammadalazadheera&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=1F222E&title_color=2ea44f&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"/>
+  <img width="100%" class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muhammadalazadheera&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=1F222E&title_color=2ea44f&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"/>
 </p>
 
 <br/>
@@ -279,9 +268,6 @@ Contact Info
   </a>
   <a href="https://linkedin.com/in/muhammadalazadheera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
-  </a>
-  <a href="https://instagram.com/muhammadalazadheera" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
   </a> 
   <a href="https://facebook.com/muhammadalazadheera" target="blank">
     <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
