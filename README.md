@@ -15,7 +15,7 @@ Intro
 <h3 align="center">
   <samp>&gt; Hey There!, I am
     <b>
-      <a href="https://muhammadalazadheera.github.io" target="_blank">Al Azad Heera</a>
+      <a style="font-size:50px;" href="https://muhammadalazadheera.github.io" target="_blank">Al Azad Heera</a>
     </b>
   </samp>
 </h3>
